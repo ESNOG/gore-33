@@ -176,9 +176,12 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 #### Taller: Migración/actualización de red CWDM a 10/100/400G DWDM
 #
 
-{{% portfolio image="/gore33/img/flexioptics.jpg" alt="Flexioptics" %}}
+{{% portfolio image="/gore33/img/solid-optics-taller.png" alt="Solid Optics" %}}
 
-**Flexioptics**
+**Solid Optics**
+
+
+[https://www.solid-optics.com/](https://www.solid-optics.com/)
 
 
 Laboratorio práctico en el que migraremos una red de 10G CWDM a DWDM (combinando 10G y 100G).
