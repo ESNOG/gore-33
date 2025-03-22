@@ -178,6 +178,7 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 
 {{% portfolio image="/gore33/img/solid-optics-taller.png" alt="Solid Optics" %}}
 
+
 **Solid Optics**
 
 

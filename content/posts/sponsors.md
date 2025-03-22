@@ -16,7 +16,7 @@ Agradecemos a las siguientes entidades su amable patrocinio de la reunion numero
 - RETN (https://retn.net/
 - IPBroker  (https://www.ipbroker.es/)
 - SOLID OPTICS  (https://www.solid-optics.com/)     
-- GENIE 
+- GENIE NETWORKS (https://https://www.genie-networks.com/)
 
 
 
