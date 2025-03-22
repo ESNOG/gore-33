@@ -136,7 +136,7 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 ### 11:15-11:45
 #
 
-{{% portfolio image="/gore33/img/cup-of-coffee-icon-59-small.png" alt="cafe" %}}
+{{% portfolio image="/gore33/img/icono-cafe.png" alt="cafe" %}}
 
 ### Pausa para Café
 
@@ -356,7 +356,7 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 #
 
 
-{{% portfolio image="/gore33/img/party01-icon.png" alt="cafe" %}}
+{{% portfolio image="/gore33/img/icono-fiesta.png" alt="fiesta" %}}
 
 ### Beers & Talk
 
@@ -371,7 +371,7 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 #
 
 
-{{% portfolio image="/gore33/img/diner_small.jpg" alt="cena" %}}
+{{% portfolio image="/gore33/img/icono-comida.jpg" alt="cena" %}}
 
 ### Cena ESNOG
 
@@ -442,7 +442,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 ### 11:00-11:30
 #
 
-{{% portfolio image="/gore33/img/cup-of-coffee-icon-59-small.png" alt="cafe" %}}
+{{% portfolio image="/gore33/img/icono-cafe.png" alt="cafe" %}}
 
 ### Pausa para Café
 
