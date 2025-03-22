@@ -272,12 +272,13 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
 
+{{% /portfolio %}}  
+
 #### 15:45 - 16:00 CEST
 
 ##### ESPANIX
 
 {{% portfolio image="/gore33/img/javier_achirica.jpg" alt="Javier Achirica" %}}
-
 
 
 **Javier Achirica** 
