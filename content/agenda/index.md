@@ -203,7 +203,7 @@ Contenido:
 ### 13:15 - 14:45 CEST 
 #
 
-{{% portfolio image="/gore33/img/lunch-icon-small.png" alt="comida" %}}
+{{% portfolio image="/gore33/icono-comida.jpg" alt="comida" %}}
 
 ### COMIDA
 
@@ -496,7 +496,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 #
 
 
-{{% portfolio image="/gore33/img/lunch-icon-small.png" alt="comida" %}}
+{{% portfolio image="/gore33/img/icono-comida.jpg" alt="comida" %}}
 
 ### COMIDA
 
