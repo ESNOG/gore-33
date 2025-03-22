@@ -13,7 +13,7 @@ Agradecemos a las siguientes entidades su amable patrocinio de la reunion numero
 
 - NEXGEN (https://www.nexgen.eu/)
 - ESPANIX (https://www.espanix.net)
-- RETN (https://retn.net/
+- RETN (https://retn.net/)
 - IPBroker  (https://www.ipbroker.es/)
 - SOLID OPTICS  (https://www.solid-optics.com/)     
 - GENIE NETWORKS (https://https://www.genie-networks.com/)
