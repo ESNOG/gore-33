@@ -87,12 +87,12 @@ Presentación de los patrocinadores del ESNOG-33, que gracias a ellos es posible
 ##### Estudio del tráfico de fondo de Internet mediante un telescopio de red situado en España
 #
 
-{{% portfolio image="/gore33/img/rodolfo_garcía_penyas.jpg" alt="Rodolfo García Peñas" %}}
+{{% portfolio image="/gore33/img/john_doe.jpg" alt="Rodolfo García Peñas" %}}
 
 
 **Rodolfo García Peñas**
 
-[https://www.ntt.net](https://www.ntt.net)
+[https://www.ugr.es/](https://www.ugr.es/)
 
 
 El tráfico de fondo de Internet está formado por aquellos paquetes de red que son recibidos de forma no solicitada. Es un tráfico generado usualmente en las fases preliminares de ataques por equipos que realizan enumeraciones de objetivos y servicios disponibles, enviado como respuestas a ataques de denegación de servicio, o enviado por error en configuraciones y comandos incorrectos. Su adquisición y análisis permite observar lo que está ocurriendo en Internet y es una importante herramienta para la identificación de nuevos tipos de ataques y de atacantes. La adquisición de este tráfico se realiza mediante telescopios de red, nodos que anuncian bloques de direcciones IP sin uso y almacenan el tráfico enviado hacia estas direcciones.
@@ -154,7 +154,7 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 #####  Javier Ruiz Gomez
 #
 
-{{% portfolio image="/gore33/img/javier_ruiz.jpg" alt="Javier Ruiz" %}}
+{{% portfolio image="/gore33/img/john_doe.jpg" alt="Javier Ruiz" %}}
 
 
 **Javier Ruiz**
@@ -207,7 +207,7 @@ Contenido:
 ### 13:15 - 14:45 CEST 
 #
 
-{{% portfolio image="/gore33/icono-comida.png" alt="comida" %}}
+{{% portfolio image="/gore33/icono-comida.jpg" alt="comida" %}}
 
 ### COMIDA
 
@@ -302,7 +302,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 #
 
 
-{{% portfolio image="/gore33/img/cup-of-coffee-icon-59-small.png" alt="cafe" %}}
+{{% portfolio image="/gore33/img/icono-cafe.png" alt="cafe" %}}
 
 ### Pausa para Café
 
@@ -341,7 +341,7 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 #### JUNTA de socios ESNOG
 
 
-{{% portfolio image="/gore33/img/esnog.jpg" alt="esnog" %}}
+{{% portfolio image="/gore33/img/icono-junta_socios.jpg" alt="ESnog Junta Socios" %}}
 
 
 **Gestora ESNOG**
@@ -375,7 +375,7 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 #
 
 
-{{% portfolio image="/gore33/img/icono-comida.png" alt="cena" %}}
+{{% portfolio image="/gore33/img/icono-comida.jpg" alt="cena" %}}
 
 ### Cena ESNOG
 
@@ -500,7 +500,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 #
 
 
-{{% portfolio image="/gore33/img/icono-comida.png" alt="comida" %}}
+{{% portfolio image="/gore33/img/icono-comida.jpg" alt="comida" %}}
 
 ### COMIDA
 
