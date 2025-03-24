@@ -207,7 +207,7 @@ Contenido:
 ### 13:15 - 14:45 CEST 
 #
 
-{{% portfolio image="/gore33/icono-comida.jpg" alt="comida" %}}
+{{% portfolio image="/gore33/img/icono-comida.jpg" alt="comida" %}}
 
 ### COMIDA
 
@@ -267,7 +267,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ##### DE-CIX 
 
-{{% portfolio image="/gore31/img/marcos_sanz.jpg" alt="Marcos Sanz" %}}
+{{% portfolio image="/gore33/img/marcos_sanz.jpg" alt="Marcos Sanz" %}}
 
 **Marcos Sanz** 
 
@@ -341,7 +341,7 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 #### JUNTA de socios ESNOG
 
 
-{{% portfolio image="/gore33/img/icono-junta_socios.jpg" alt="ESnog Junta Socios" %}}
+{{% portfolio image="/gore33/img/icono-junta_socios.png" alt="ESnog Junta Socios" %}}
 
 
 **Gestora ESNOG**
