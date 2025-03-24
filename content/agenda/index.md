@@ -207,7 +207,7 @@ Contenido:
 ### 13:15 - 14:45 CEST 
 #
 
-{{% portfolio image="/gore33/icono-comida.jpg" alt="comida" %}}
+{{% portfolio image="/gore33/icono-comida.png" alt="comida" %}}
 
 ### COMIDA
 
@@ -375,7 +375,7 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 #
 
 
-{{% portfolio image="/gore33/img/icono-comida.jpg" alt="cena" %}}
+{{% portfolio image="/gore33/img/icono-comida.png" alt="cena" %}}
 
 ### Cena ESNOG
 
@@ -500,7 +500,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 #
 
 
-{{% portfolio image="/gore33/img/icono-comida.jpg" alt="comida" %}}
+{{% portfolio image="/gore33/img/icono-comida.png" alt="comida" %}}
 
 ### COMIDA
 
