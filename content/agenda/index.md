@@ -76,7 +76,7 @@ https://t.me/esnog_es
 
 Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-33
 
-Presentación de los patrocinadores del ESNOG-33, que gracias a ellos es posible este evento.
+Presentación de los [patrocinadores](https://esnog.net/gore33/patrocinio) del ESNOG-33, que gracias a ellos es posible este evento.
 
 
 #
@@ -92,7 +92,7 @@ Presentación de los patrocinadores del ESNOG-33, que gracias a ellos es posible
 
 **Rodolfo García Peñas**
 
-[https://www.ugr.es/](https://www.ugr.es/)
+[Universidad de Granada](https://www.ugr.es/)
 
 
 El tráfico de fondo de Internet está formado por aquellos paquetes de red que son recibidos de forma no solicitada. Es un tráfico generado usualmente en las fases preliminares de ataques por equipos que realizan enumeraciones de objetivos y servicios disponibles, enviado como respuestas a ataques de denegación de servicio, o enviado por error en configuraciones y comandos incorrectos. Su adquisición y análisis permite observar lo que está ocurriendo en Internet y es una importante herramienta para la identificación de nuevos tipos de ataques y de atacantes. La adquisición de este tráfico se realiza mediante telescopios de red, nodos que anuncian bloques de direcciones IP sin uso y almacenan el tráfico enviado hacia estas direcciones.
@@ -151,9 +151,6 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 ##### Solución de encriptación: QKD con MACSec metropolitano + IPQCK hasta la nube pública
 #
 
-#####  Javier Ruiz Gomez
-#
-
 {{% portfolio image="/gore33/img/john_doe.jpg" alt="Javier Ruiz" %}}
 
 
@@ -191,8 +188,7 @@ Contenido:
 
 - Teoría
 - Práctica básica de cómo trabajar con fibras ópticas.
-- Migración de 10G a DWDM: 
-
+- Migración de 10G a DWDM, según topolgía: 
         - Topología Punto a Punto
         - Topología en anillo
 
@@ -251,7 +247,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ##### CATNIX
 
-{{% portfolio image="/gore33/img/maria_isabel_gandia.png" alt="Maria Isabel Gandía" %}}
+{{% portfolio image="/gore33/img/maria_isabel_gandia.jpg" alt="Maria Isabel Gandía" %}}
 
 **María Isabel Gandía**
 
@@ -322,7 +318,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 **Steve Song**
 
-[https://www.internetsociety.org//](https://www.internetsociety.org/)
+[https://www.internetsociety.org/](https://www.internetsociety.org/)
 
 
 The Open Data Fibre Standard (OFDS) is a framework intended to standardize and streamline the publication, sharing, and interoperability of information describing fiber optic networks. It establishes a common data format and structure to ensure consistency across different stakeholders, including network operators, regulators, and service providers. OFDS aims to improve transparency, facilitate network planning, and support digital infrastructure development by making fiber deployment data more accessible and usable.
@@ -337,6 +333,7 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 ---------------------------
 
 ### 17:00 - 17:30 CEST
+#
 
 #### JUNTA de socios ESNOG
 
@@ -346,7 +343,7 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 
 **Gestora ESNOG**
 
-[https://www.esnog.es](https://www.esnog.net)
+[https://www.esnog.net](https://www.esnog.net)
 
 
 {{% /portfolio %}}  
@@ -386,12 +383,16 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 {{% /portfolio %}}
 
 
+
 #
 ---------------------------
+---------------------------
 
-## Dia 25 de Octubre de 2024
 
-### 10:00 - 10:30 CEST 
+## Dia 23 de Mayo de 2025
+---------------------------
+
+### 9:00 - 9:30 CEST
 
 #### Registro y Bienvenida
 
@@ -401,7 +402,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 #
 ---------------------------
 
-### 9:00 - 10:00 CEST 
+### 9:30 - 10:00 CEST 
 
 #####  Por Confirmar
 
@@ -422,10 +423,44 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 #
 ---------------------------
 
+### 10:00 - 10:30 CEST 
+
+
+#### How Recent Disruptions Are Reshaping Global Transit: Rethinking Routing, Capacity, and Resilience
+
+{{% portfolio image="/gore33/img/milko_ilari.jpg" alt="Milko Ilari" %}}
+
+**Milko Ilari**
+
+[https://www.retn.net](https://retn.net/)
+
+
+([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+
+
+What’s common between submarine fiber cuts in the Red Sea, Southeast Asia, and the Baltic Sea, and fiber damage in Ukraine during warfare?
+
+Disruptions to fiber infrastructure – whether due to geopolitics, or environmental factors – are reshaping global connectivity. These failures impact latency, force rerouting, and expose vulnerabilities in international transit routes. NSPs must rethink long-term strategies to mitigate risks and ensure stability.
+
+This presentation will focus on:
+
+- Submarine bottlenecks and stimulus to establishing new transit hubs – how recent failures impact global traffic flows.
+- Latency and routing changes – rtt and bgp insights on how major routes have been affected.
+- Capacity adaptation – why RETN shifted from 400G to multiple 100G configurations on critical submarine paths, establishing a new rule: 6 routes are insufficient.
+- Building resilient networks – the case for route diversity and alternative terrestrial pathways.
+
+We will discuss real-time network adjustments, the technical trade-offs in capacity planning, and what NSPs should consider when designing for reliability in an increasingly unstable environment. 
+
+{{% /portfolio %}}  
+
+
+#
+---------------------------
+
 ### 10:30 - 11:00 CEST 
 
+#####  Por Confirmar
 
-#### Por Confirmar
 
 {{% portfolio image="/gore33/img/john_doe.jpg" alt="John Doe" %}}
 
@@ -437,7 +472,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
 
-{{% /portfolio %}}  
+{{% /portfolio %}} 
 
 
 #
