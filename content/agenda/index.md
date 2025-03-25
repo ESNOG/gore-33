@@ -12,6 +12,7 @@ title: "Agenda - ESNOG 33"
 
 La celebración del ESNOG-33, tendrá lugar en:
 
+#
 
 **Universidad Carlos III**
 
@@ -92,7 +93,7 @@ Presentación de los [patrocinadores](https://esnog.net/gore33/patrocinio) del E
 
 **Rodolfo García Peñas**
 
-[Universidad de Granada](https://www.ugr.es/)
+[Network Engineering & Security Group (NESG), Universidad de Granada](https://www.ugr.es/)
 
 
 El tráfico de fondo de Internet está formado por aquellos paquetes de red que son recibidos de forma no solicitada. Es un tráfico generado usualmente en las fases preliminares de ataques por equipos que realizan enumeraciones de objetivos y servicios disponibles, enviado como respuestas a ataques de denegación de servicio, o enviado por error en configuraciones y comandos incorrectos. Su adquisición y análisis permite observar lo que está ocurriendo en Internet y es una importante herramienta para la identificación de nuevos tipos de ataques y de atacantes. La adquisición de este tráfico se realiza mediante telescopios de red, nodos que anuncian bloques de direcciones IP sin uso y almacenan el tráfico enviado hacia estas direcciones.
@@ -119,7 +120,7 @@ La presentación realiza un estudio del tráfico recibido por un telescopio de r
 
 **Gerhard Stein**
 
-[https://www.flexoptix.net/](https://www.flexoptix.net/)
+[Flexoptix](https://www.flexoptix.net/)
 
 
 Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-Ruido (SNR) que aún puede mantener una Tasa de Error de Bit (BER) tolerable en enlaces de red de 100G / 400G / 800G. Además, teniendo en cuenta factores como la temperatura y la longitud del cable para predecir la duración durante la cual se puede mantener una conexión de red confiable entre transceptores. El análisis, basado en datos obtenidos mediante un Flexbox, se centra en comparar la fiabilidad de los transceptores coherentes (16QAM) y no coherentes (PAM4), con una discusión detallada sobre las implicaciones de estas tecnologías en el rendimiento de la red.
@@ -154,9 +155,9 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 {{% portfolio image="/gore33/img/john_doe.jpg" alt="Javier Ruiz" %}}
 
 
-**Javier Ruiz**
-
-[https://www.lyntia.com](https://www.www.lyntia.com)
+**Javier Ruiz** [Lyntia] (https://www.www.lyntia.com)\
+**Ubaldo Garcia Matos** [Juniper] (https://www.juniper.net/)\
+**Sebastian Etcheverry** [Luxquanta] (https://www.luxquanta.com/)
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
@@ -173,13 +174,13 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 #### Taller: Migración/actualización de red CWDM a 10/100/400G DWDM
 #
 
-{{% portfolio image="/gore33/img/solid-optics-taller.png" alt="Solid Optics" %}}
+{{% portfolio image="/gore33/img/john_doe.jpg" alt="Solid Optics" %}}
 
 
 **Solid Optics**
 
 
-[https://www.solid-optics.com/](https://www.solid-optics.com/)
+[Solid Optics](https://www.solid-optics.com/)
 
 
 Laboratorio práctico en el que migraremos una red de 10G CWDM a DWDM (combinando 10G y 100G).
@@ -189,8 +190,9 @@ Contenido:
 - Teoría
 - Práctica básica de cómo trabajar con fibras ópticas.
 - Migración de 10G a DWDM, según topolgía: 
-        - Topología Punto a Punto
-        - Topología en anillo
+
+        1. Topología Punto a Punto
+        2. Topología en anillo
 
 
 {{% /portfolio %}} 
@@ -223,7 +225,7 @@ Contenido:
 
 **Víctor Serrano**
 
-[https://www.nokia](https://www.nokia.com)
+[Nokia](https://www.nokia.com)
 
 
 Tradicionalmente, los IXP han visto la protección DDoS como un servicio ajeno a sus competencias, aunque algunos IXP ofrecen mecanismos simples de blackholing en la LAN. En esta charla veremos nuevas propuestas que IXPs de Europa (LINX, NL-ix) están desplegando para incorporar la protección DDoS como un servicio más en su catálogo.
@@ -237,7 +239,7 @@ Tradicionalmente, los IXP han visto la protección DDoS como un servicio ajeno a
 #
 ---------------------------
 
-### 15:30 - 16:15 CEST
+### 15:15 - 16:00 CEST
 
 ### Puntos Neutros
 
@@ -251,7 +253,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 **María Isabel Gandía**
 
-[https://www.catnix.net/es](https://www.catnix.net/es)
+[CATnix](https://www.catnix.net/es)
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
@@ -267,7 +269,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 **Marcos Sanz** 
 
-[https://www.de-cix.net/](https://www.de-cix.net/)
+[DE-cix](https://www.de-cix.net/)
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
@@ -283,7 +285,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 **Javier Achirica** 
 
-[https://www.espanix.net/es](https://www.espanix.net/es)
+[ESPAnix](https://www.espanix.net/es)
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
@@ -316,9 +318,9 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 {{% portfolio image="/gore33/img/steve_song.jpg" alt="Steve Song" %}}
 
 
-**Steve Song**
+**Steve Song** 
 
-[https://www.internetsociety.org/](https://www.internetsociety.org/)
+[Internetsociety](https://www.internetsociety.org/)
 
 
 The Open Data Fibre Standard (OFDS) is a framework intended to standardize and streamline the publication, sharing, and interoperability of information describing fiber optic networks. It establishes a common data format and structure to ensure consistency across different stakeholders, including network operators, regulators, and service providers. OFDS aims to improve transparency, facilitate network planning, and support digital infrastructure development by making fiber deployment data more accessible and usable.
@@ -336,14 +338,14 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 #
 
 #### JUNTA de socios ESNOG
-
+#
 
 {{% portfolio image="/gore33/img/icono-junta_socios.png" alt="ESnog Junta Socios" %}}
 
 
 **Gestora ESNOG**
 
-[https://www.esnog.net](https://www.esnog.net)
+[ESNOG](https://www.esnog.net)
 
 
 {{% /portfolio %}}  
@@ -411,7 +413,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 
 **Por Confirmar**
 
-[https://www.esnog.es](https://www.esnog.net)
+[https://www.esnog.net](https://www.esnog.net)
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
@@ -466,7 +468,7 @@ We will discuss real-time network adjustments, the technical trade-offs in capac
 
 **Por Confirmar**
 
-[https://www.esnog.es](https://www.esnog.net)
+[https://www.esnog.net](https://www.esnog.net)
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
@@ -499,7 +501,7 @@ We will discuss real-time network adjustments, the technical trade-offs in capac
 
 **Por Confirmar**
 
-[https://www.esnog.es](https://www.esnog.net)
+[https://www.esnog.net](https://www.esnog.net)
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
@@ -554,7 +556,7 @@ We will discuss real-time network adjustments, the technical trade-offs in capac
 
 **Por Confirmar**
 
-[https://www.esnog.es](https://www.esnog.net)
+[https://www.esnog.net](https://www.esnog.net)
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
