@@ -169,34 +169,43 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 #
 ---------------------------
 
-### 12:15 - 13:45 CEST
+### 12:15- 12:45 CEST 
 
-#### Taller: Migración/actualización de red CWDM a 10/100/400G DWDM
-#
-
-{{% portfolio image="/gore33/img/john_doe.jpg" alt="Solid Optics" %}}
+#####  Por Confirmar
 
 
-**Solid Optics**
+{{% portfolio image="/gore33/img/john_doe.jpg" alt="John Doe" %}}
+
+**Por Confirmar**
+
+[https://www.esnog.net](https://www.esnog.net)
 
 
-[Solid Optics](https://www.solid-optics.com/)
-
-
-Laboratorio práctico en el que migraremos una red de 10G CWDM a DWDM (combinando 10G y 100G).
-
-Contenido: 
-
-- Teoría
-- Práctica básica de cómo trabajar con fibras ópticas.
-- Migración de 10G a DWDM, según topolgía: 
-
-        1. Topología Punto a Punto
-        2. Topología en anillo
+([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
 
 {{% /portfolio %}} 
 
+
+#
+---------------------------
+
+### 12:45- 13:15 CEST 
+
+#####  Por Confirmar
+
+
+{{% portfolio image="/gore33/img/john_doe.jpg" alt="John Doe" %}}
+
+**Por Confirmar**
+
+[https://www.esnog.net](https://www.esnog.net)
+
+
+([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+
+
+{{% /portfolio %}} 
 
 
 #
@@ -442,8 +451,6 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 
 What’s common between submarine fiber cuts in the Red Sea, Southeast Asia, and the Baltic Sea, and fiber damage in Ukraine during warfare?
 
-Disruptions to fiber infrastructure – whether due to geopolitics, or environmental factors – are reshaping global connectivity. These failures impact latency, force rerouting, and expose vulnerabilities in international transit routes. NSPs must rethink long-term strategies to mitigate risks and ensure stability.
-
 This presentation will focus on:
 
 - Submarine bottlenecks and stimulus to establishing new transit hubs – how recent failures impact global traffic flows.
@@ -451,7 +458,6 @@ This presentation will focus on:
 - Capacity adaptation – why RETN shifted from 400G to multiple 100G configurations on critical submarine paths, establishing a new rule: 6 routes are insufficient.
 - Building resilient networks – the case for route diversity and alternative terrestrial pathways.
 
-We will discuss real-time network adjustments, the technical trade-offs in capacity planning, and what NSPs should consider when designing for reliability in an increasingly unstable environment. 
 
 {{% /portfolio %}}  
 
@@ -461,17 +467,19 @@ We will discuss real-time network adjustments, the technical trade-offs in capac
 
 ### 10:30 - 11:00 CEST 
 
-#####  Por Confirmar
+#####  Reducción de la congestión en redes de acceso con aprendizaje automático en tiempo real.
+
+{{% portfolio image="/gore33/img/jose_lopez_serrano.jpg" alt="José López Serrano" %}}
 
 
-{{% portfolio image="/gore33/img/john_doe.jpg" alt="John Doe" %}}
+**José López Serrano**
 
-**Por Confirmar**
-
-[https://www.esnog.net](https://www.esnog.net)
+[https://www.bequant.com/](https://www.bequant.com/)
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+
+El aprendizaje automático en tiempo real permite la reducción de la latencia y las pérdidas de paquetes en las redes de acceso de los proveedores del servicio de Internet.
 
 
 {{% /portfolio %}} 
@@ -570,14 +578,13 @@ We will discuss real-time network adjustments, the technical trade-offs in capac
 
 ### 15:00 - 15:30 CEST 
 
-#####  El fino arte de presentar y atraer a la gente
+#### Por Confirmar
 
-{{% portfolio image="/gore33/img/fernando_garcia.jpg" alt="Fernando Garcia" %}}
+{{% portfolio image="/gore33/img/john_doe.jpg" alt="John Doe" %}}
 
+**Por Confirmar**
 
-**Fernando García**
-
-En esta última presentación del ESNOG-33 abordaremos el fino arte de las presentaciones. Cómo hacer que sean atractivas y amenas para poder captar la plena atención de los asistentes a ellas.
+[https://www.esnog.net](https://www.esnog.net)
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
