@@ -515,6 +515,7 @@ El aprendizaje automático en tiempo real permite la reducción de la latencia y
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
  
 
+
 {{% /portfolio %}} 
 
 
@@ -523,16 +524,19 @@ El aprendizaje automático en tiempo real permite la reducción de la latencia y
 
 ### 12:00 - 13:00 CEST
 
-#####  TALLER - Por Confirmar
+#####  Taller: Introducción a kubernetes (k8s) para ingenieros de red
 
-{{% portfolio image="/gore33/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore33/img/jesus_velez.jpg" alt="Jesus Velez" %}}
 
 
-**Por Confirmar**
+**Jesus Velez**
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
- 
+
+
+Será necesario disponer de ordenador para seguir el taller.
+
 
 {{% /portfolio %}} 
 
