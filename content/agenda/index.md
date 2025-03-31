@@ -356,8 +356,8 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 {{% portfolio image="/gore33/img/icono-junta_socios.png" alt="ESnog Junta Socios" %}}
 
 
-#### JUNTA de socios ESNOG
-#
+### JUNTA de socios ESNOG
+
 
 **Gestora ESNOG**
 
