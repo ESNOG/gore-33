@@ -23,7 +23,6 @@ Ronda de Toledo, 1.
 [https://www.uc3m.es/inicio](https://www.uc3m.es/inicio)
 
 
-
 {{% portfolio %}}
 
 {{% /portfolio %}} 
@@ -85,10 +84,10 @@ Presentación de los [patrocinadores](https://esnog.net/gore33/patrocinio) del E
 
 ### 10:15 - 10:45 CEST
 
-##### Estudio del tráfico de fondo de Internet mediante un telescopio de red situado en España
+#### Estudio del tráfico de fondo de Internet mediante un telescopio de red situado en España
 #
 
-{{% portfolio image="/gore33/img/john_doe.jpg" alt="Rodolfo García Peñas" %}}
+{{% portfolio image="/gore33/img/rodolfo_garcia.jgp" alt="Rodolfo García Peñas" %}}
 
 
 **Rodolfo García Peñas**
@@ -112,7 +111,7 @@ La presentación realiza un estudio del tráfico recibido por un telescopio de r
 
 ### 10:45 - 11:15 CEST
 
-##### Fiabilidad de la red hasta 800G
+#### Fiabilidad de la red hasta 800G
 #
 
 {{% portfolio image="/gore33/img/gerhard_stein.jpg" alt="Gerhard Stein" %}}
@@ -149,18 +148,22 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 
 ### 11:45 - 12:15 CEST
 
-##### Solución de encriptación: QKD con MACSec metropolitano + IPQCK hasta la nube pública
+#### Solución de encriptación: QKD con MACSec metropolitano + IPQCK hasta la nube pública
 #
 
 {{% portfolio image="/gore33/img/john_doe.jpg" alt="Javier Ruiz" %}}
 
 
-**Javier Ruiz** [Lyntia] (https://www.www.lyntia.com)\
-**Ubaldo Garcia Matos** [Juniper] (https://www.juniper.net/)\
-**Sebastian Etcheverry** [Luxquanta] (https://www.luxquanta.com/)
+**Javier Ruiz** [Lyntia](https://www.www.lyntia.com)\
+**Ubaldo Garcia Matos** [Juniper](https://www.juniper.net/)\
+**Sebastian Etcheverry** [Luxquanta](https://www.luxquanta.com/)
+
+
+En esta charla compartiremos nuestra experiencia combinando métodos de cifrado cuántico y postcuántico para asegurar el tráfico desde aplicaciones en un data center on-premise hasta el cloud público. Además, comentaremos los hitos tecnológicos alcanzados en materia de QKD (Quantum Key Distribution): primera prueba en producción de una solución hub&spoke de encriptadores y generadores de claves, y la multiplexación de generación de claves y datos en un mismo par de fibras.
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+
 
 
 {{% /portfolio %}} 
@@ -171,7 +174,7 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 
 ### 12:15- 12:45 CEST 
 
-#####  Por Confirmar
+####  Por Confirmar
 
 
 {{% portfolio image="/gore33/img/john_doe.jpg" alt="John Doe" %}}
@@ -192,7 +195,7 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 
 ### 12:45- 13:15 CEST 
 
-#####  Por Confirmar
+####  Por Confirmar
 
 
 {{% portfolio image="/gore33/img/john_doe.jpg" alt="John Doe" %}}
@@ -254,6 +257,8 @@ Tradicionalmente, los IXP han visto la protección DDoS como un servicio ajeno a
 
 Actualización sobre las últimas novedades en los diferentes puntos neutros existentes en España. (En orden alfabético)
 
+#
+
 #### 15:15 - 15:30 CEST
 
 ##### CATNIX
@@ -264,11 +269,11 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 [CATnix](https://www.catnix.net/es)
 
-
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
 {{% /portfolio %}}  
 
+#
 
 #### 15:30 - 15:45 CEST
 
@@ -282,8 +287,9 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
-
 {{% /portfolio %}}  
+
+#
 
 #### 15:45 - 16:00 CEST
 
@@ -321,7 +327,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ### 16:30 - 17:00 CEST
 
-### Introducing the Open Fibre Data Standard
+#### Introducing the Open Fibre Data Standard
 
 
 {{% portfolio image="/gore33/img/steve_song.jpg" alt="Steve Song" %}}
@@ -346,11 +352,12 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 ### 17:00 - 17:30 CEST
 #
 
-#### JUNTA de socios ESNOG
-#
 
 {{% portfolio image="/gore33/img/icono-junta_socios.png" alt="ESnog Junta Socios" %}}
 
+
+#### JUNTA de socios ESNOG
+#
 
 **Gestora ESNOG**
 
@@ -405,7 +412,7 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 
 ### 9:00 - 9:30 CEST
 
-#### Registro y Bienvenida
+### Registro y Bienvenida
 
 Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-33
 
@@ -443,10 +450,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 
 **Milko Ilari**
 
-[https://www.retn.net](https://retn.net/)
-
-
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+[RETN](https://retn.net/)
 
 
 What’s common between submarine fiber cuts in the Red Sea, Southeast Asia, and the Baltic Sea, and fiber damage in Ukraine during warfare?
@@ -458,6 +462,7 @@ This presentation will focus on:
 - Capacity adaptation – why RETN shifted from 400G to multiple 100G configurations on critical submarine paths, establishing a new rule: 6 routes are insufficient.
 - Building resilient networks – the case for route diversity and alternative terrestrial pathways.
 
+([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
 {{% /portfolio %}}  
 
@@ -474,13 +479,13 @@ This presentation will focus on:
 
 **José López Serrano**
 
-[https://www.bequant.com/](https://www.bequant.com/)
+[Bequant](https://www.bequant.com/)
+
+
+El aprendizaje automático en tiempo real, con algoritmos de aprendizaje reforzado (Real-Time Machine Learning with Reinforcement Learning), permite la reducción de la latencia y las pérdidas de paquetes en las redes de acceso de los proveedores del servicio de Internet.
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
-
-El aprendizaje automático en tiempo real permite la reducción de la latencia y las pérdidas de paquetes en las redes de acceso de los proveedores del servicio de Internet.
-
 
 {{% /portfolio %}} 
 
@@ -531,11 +536,11 @@ El aprendizaje automático en tiempo real permite la reducción de la latencia y
 
 **Jesus Velez**
 
+Será necesario disponer de ordenador para poder seguir el taller.
+
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
-
-Será necesario disponer de ordenador para seguir el taller.
 
 
 {{% /portfolio %}} 
@@ -562,13 +567,20 @@ Será necesario disponer de ordenador para seguir el taller.
 
 ### 14:30 - 15:00 CEST
 
-#### Por Confirmar
+#### Novedades en la RIPE Database
 
-{{% portfolio image="/gore33/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore33/img/miguel_mosquera.jpg" alt="Miguel Mosquera" %}}
 
-**Por Confirmar**
 
-[https://www.esnog.net](https://www.esnog.net)
+**Miguel Mosquera**
+
+[RIPE NCC](https://www.ripe.net/)
+
+Esta presentación tiene como objetivo proporcionar a los asistentes un conocimiento más profundo sobre los servicios relacionados con la base de datos de RIPE, incluyendo NRTMv4 y RDAP.
+
+Durante la sesión, se explicará en detalle el funcionamiento de estos servicios, su importancia en la gestión de recursos de Internet y cómo pueden ser utilizados de manera eficiente por los operadores de red y otros actores del ecosistema.
+
+Se abordarán cambios recientes y próximos en la seguridad y autenticación dentro de la base de datos de RIPE, incluyendo la expiración de las contraseñas MD5 y las alternativas disponibles para garantizar la seguridad y accesibilidad de la información. Entre ellas, se explorarán soluciones como API Keys y OAuth2, destacando sus ventajas, implementación y mejores prácticas para su uso.
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
