@@ -87,7 +87,7 @@ Presentación de los [patrocinadores](https://esnog.net/gore33/patrocinio) del E
 #### Estudio del tráfico de fondo de Internet mediante un telescopio de red situado en España
 #
 
-{{% portfolio image="/gore33/img/rodolfo_garcia.jgp" alt="Rodolfo García Peñas" %}}
+{{% portfolio image="/gore33/img/rodolfo_garcia.jpg" alt="Rodolfo García Peñas" %}}
 
 
 **Rodolfo García Peñas**
@@ -174,14 +174,16 @@ En esta charla compartiremos nuestra experiencia combinando métodos de cifrado 
 
 ### 12:15- 12:45 CEST 
 
-####  Por Confirmar
+####  IPv6-Mostly, la transición definitiva
 
 
-{{% portfolio image="/gore33/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore33/img/jordi_palet.jpg" alt="Jordi Palet" %}}
 
-**Por Confirmar**
+**Jordi Palet**
 
-[https://www.esnog.net](https://www.esnog.net)
+[Theipv6company](https://theipv6company.com/)
+
+En los últimos años hemos venido mencionando el uso de IPv6-only con IPv4aaS. De forma que todos los clientes de una red, podrían tener dual-stack, aun cuando la conectividad de esa red era IPv6-only. Sin embargo, ¿Que necesidad hay de que aquellos dispositivos que pueden usar sólo IPv6, les sigamos asignando direcciones IPv4? Con IPv6-Mostly completamos ese avance hacia redes no solo con menor uso de IPv6, sino también con cada vez menos asignación de direcciones IPv4.
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
@@ -195,15 +197,21 @@ En esta charla compartiremos nuestra experiencia combinando métodos de cifrado 
 
 ### 12:45- 13:15 CEST 
 
-####  Por Confirmar
+####  Infusing Heterogeneous Data to Troubleshoot & Improve Peering Performance and Security
 
 
-{{% portfolio image="/gore33/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore33/img/igoris_jelisejenko.jpeg" alt="Igoris Jelisejenko" %}}
 
-**Por Confirmar**
+**Igoris Jelisejenko**
 
-[https://www.esnog.net](https://www.esnog.net)
+[www.genie-networks.com](www.genie-networks.com)
 
+This presentation is meant for BGP Coordinators, Network Engineers for BGP Operations and covers the topics of:
+
+- Peering Coordination: peering evaluation suiting the peering policy
+- Traffic Route Management: traffic monitoring for traffic route optimization, anomaly identification and troubleshooting
+- Route Health Monitoring: BGP route message and RPKI status analysis for routing health monitoring
+- Route Anomaly Detection: it’d be even better if someone could notify me whenever abnormal route behavior happened
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
