@@ -151,7 +151,7 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 #### Solución de encriptación: QKD con MACSec metropolitano + IPQCK hasta la nube pública
 #
 
-{{% portfolio image="/gore33/img/john_doe.jpg" alt="Javier Ruiz" %}}
+{{% portfolio image="/gore33/img/qkd_macsec_metropolitano.jpg" alt="Qkd Macsec Metropolitano" %}}
 
 
 **Javier Ruiz** [Lyntia](https://www.www.lyntia.com)\
@@ -367,8 +367,6 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 ### JUNTA de socios ESNOG
 
 
-**Gestora ESNOG**
-
 [ESNOG](https://www.esnog.net)
 
 
@@ -528,7 +526,6 @@ El aprendizaje automático en tiempo real, con algoritmos de aprendizaje reforza
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
  
 
-
 {{% /portfolio %}} 
 
 
@@ -623,9 +620,10 @@ Se abordarán cambios recientes y próximos en la seguridad y autenticación den
 
 ### 15:30 - 16:00 CEST
 
-#### Concurso y Despedida
 
 {{% portfolio %}}
+
+#### Concurso y Despedida
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
