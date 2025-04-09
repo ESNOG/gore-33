@@ -200,9 +200,9 @@ En los últimos años hemos venido mencionando el uso de IPv6-only con IPv4aaS. 
 ####  Infusing Heterogeneous Data to Troubleshoot & Improve Peering Performance and Security
 
 
-{{% portfolio image="/gore33/img/siarhei_matashuk_2.jpg" alt="Siarhei Matashuk" %}}
+{{% portfolio image="/gore33/img/siarhei_matashuk.jpg" alt="Siarhei Matashuk" %}}
 
-***Siarhei Matashuk**
+**Siarhei Matashuk**
 
 [www.genie-networks.com](www.genie-networks.com)
 
