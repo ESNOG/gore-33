@@ -200,9 +200,9 @@ En los últimos años hemos venido mencionando el uso de IPv6-only con IPv4aaS. 
 ####  Infusing Heterogeneous Data to Troubleshoot & Improve Peering Performance and Security
 
 
-{{% portfolio image="/gore33/img/igoris_jelisejenko.jpeg" alt="Igoris Jelisejenko" %}}
+{{% portfolio image="/gore33/img/siarhei_matashuk.jpeg" alt="Siarhei Matashuk" %}}
 
-**Igoris Jelisejenko**
+***Siarhei Matashuk**
 
 [www.genie-networks.com](www.genie-networks.com)
 
@@ -574,10 +574,10 @@ Será necesario disponer de ordenador para poder seguir el taller.
 
 #### Novedades en la RIPE Database
 
-{{% portfolio image="/gore33/img/miguel_mosquera.jpg" alt="Miguel Mosquera" %}}
+{{% portfolio image="/gore33/img/miguel_herran.jpg" alt="Miguel Herran" %}}
 
 
-**Miguel Mosquera**
+**Miguel Herrán Mosquera**
 
 [RIPE NCC](https://www.ripe.net/)
 
