@@ -16,9 +16,9 @@ La celebración del ESNOG-33, tendrá lugar en:
 
 **Universidad Carlos III**
 
-Universidad Carlos III de Madrid-Puerta de Toledo Campus
-Ronda de Toledo, 1.
+Universidad Carlos III de Madrid-Puerta de Toledo Campus Ronda de Toledo, 1.
 28005 Madrid
+
 
 [https://www.uc3m.es/inicio](https://www.uc3m.es/inicio)
 
@@ -78,7 +78,7 @@ Bienvenida a los asistentes e instrucciones sobre la reunion ESNOG-33
 
 Presentación de los [patrocinadores](https://esnog.net/gore33/patrocinio) del ESNOG-33, que gracias a ellos es posible este evento.
 
-
+#
 #
 ---------------------------
 
@@ -92,7 +92,7 @@ Presentación de los [patrocinadores](https://esnog.net/gore33/patrocinio) del E
 
 **Rodolfo García Peñas**
 
-[Network Engineering & Security Group (NESG), Universidad de Granada](https://www.ugr.es/)
+[Network Engineering & Security Group (NESG), Universidad de Granada - www.ugr.es](https://www.ugr.es/)
 
 
 El tráfico de fondo de Internet está formado por aquellos paquetes de red que son recibidos de forma no solicitada. Es un tráfico generado usualmente en las fases preliminares de ataques por equipos que realizan enumeraciones de objetivos y servicios disponibles, enviado como respuestas a ataques de denegación de servicio, o enviado por error en configuraciones y comandos incorrectos. Su adquisición y análisis permite observar lo que está ocurriendo en Internet y es una importante herramienta para la identificación de nuevos tipos de ataques y de atacantes. La adquisición de este tráfico se realiza mediante telescopios de red, nodos que anuncian bloques de direcciones IP sin uso y almacenan el tráfico enviado hacia estas direcciones.
@@ -105,7 +105,7 @@ La presentación realiza un estudio del tráfico recibido por un telescopio de r
 
 {{% /portfolio %}}
 
-
+#
 #
 ---------------------------
 
@@ -119,7 +119,7 @@ La presentación realiza un estudio del tráfico recibido por un telescopio de r
 
 **Gerhard Stein**
 
-[Flexoptix](https://www.flexoptix.net/)
+[Flexoptix - www.flexoptix.net](https://www.flexoptix.net/)
 
 
 Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-Ruido (SNR) que aún puede mantener una Tasa de Error de Bit (BER) tolerable en enlaces de red de 100G / 400G / 800G. Además, teniendo en cuenta factores como la temperatura y la longitud del cable para predecir la duración durante la cual se puede mantener una conexión de red confiable entre transceptores. El análisis, basado en datos obtenidos mediante un Flexbox, se centra en comparar la fiabilidad de los transceptores coherentes (16QAM) y no coherentes (PAM4), con una discusión detallada sobre las implicaciones de estas tecnologías en el rendimiento de la red.
@@ -129,6 +129,7 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 
 {{% /portfolio %}}  
 
+#
 #
 ---------------------------
 
@@ -142,7 +143,7 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 
 **Nacho Mateo**
 
-[IPbroker](https://ipbroker.com/es/)
+[IPbroker - www.ipbroker.com](https://ipbroker.com/es/)
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
@@ -151,16 +152,19 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 {{% /portfolio %}} 
 
 #
+#
 ---------------------------
 
 ### 11:15-11:45
 #
 
-{{% portfolio image="/gore33/img/icono-cafe-solid_optics.png" alt="cafe-solid_optics" %}}
+{{% portfolio image="/gore33/img/icono-cafe-solid_optics.jpg" alt="cafe-solid_optics" %}}
 
 ### Pausa para Café
 
-### Patrocinado por: SOLID OPTICS
+#### Patrocinado por: 
+
+####    SOLID OPTICS
 
 [https://www.solid-optics.com/](https://www.solid-optics.com/) 
 
@@ -179,9 +183,9 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 {{% portfolio image="/gore33/img/qkd_macsec_metropolitano.jpg" alt="Qkd Macsec Metropolitano" %}}
 
 
-**Javier Ruiz** [Lyntia](https://www.www.lyntia.com)\
-**Ubaldo Garcia Matos** [Juniper](https://www.juniper.net/)\
-**Sebastian Etcheverry** [Luxquanta](https://www.luxquanta.com/)
+**Javier Ruiz** [Lyntia - www.lyntia.com](https://www.www.lyntia.com)\
+**Ubaldo Garcia Matos** [Juniper - www.juniper.net](https://www.juniper.net/)\
+**Sebastian Etcheverry** [Luxquanta - www.luxquanta.com](https://www.luxquanta.com/)
 
 
 En esta charla compartiremos nuestra experiencia combinando métodos de cifrado cuántico y postcuántico para asegurar el tráfico desde aplicaciones en un data center on-premise hasta el cloud público. Además, comentaremos los hitos tecnológicos alcanzados en materia de QKD (Quantum Key Distribution): primera prueba en producción de una solución hub&spoke de encriptadores y generadores de claves, y la multiplexación de generación de claves y datos en un mismo par de fibras.
@@ -193,6 +197,7 @@ En esta charla compartiremos nuestra experiencia combinando métodos de cifrado 
 {{% /portfolio %}} 
 
 
+#
 #
 ---------------------------
 
@@ -206,7 +211,7 @@ En esta charla compartiremos nuestra experiencia combinando métodos de cifrado 
 
 **Saul Alonso**
 
-[Solid Optics](https://www.solid-optics.com/) 
+[Solid Optics - www.solid-optics.com](https://www.solid-optics.com/) 
 
 
 En este taller práctico, abordaremos las técnicas fundamentales para la caracterización de enlaces de fibra óptica, evaluando parámetros críticos comoatenuación, distancia y dispersión. El objetivo es dotar a los participantes de los conocimientos necesarios para seleccionar y configurar de manera óptima el equipamiento de transmisión, garantizando un desempeño de red robusto y eficiente.
@@ -224,7 +229,7 @@ OTDR, Medidor de dispersión cromática, medidor de potencia óptica, OSA, cáma
 {{% /portfolio %}} 
 
 
-
+#
 #
 ---------------------------
 
@@ -239,6 +244,7 @@ OTDR, Medidor de dispersión cromática, medidor de potencia óptica, OSA, cáma
 
 
 #
+#
 ---------------------------
 
 ### 14:45- 15:15 CEST 
@@ -249,7 +255,7 @@ OTDR, Medidor de dispersión cromática, medidor de potencia óptica, OSA, cáma
 
 **Milko Ilari**
 
-[RETN](https://retn.net/)
+[RETN - www.retn.net](https://retn.net/)
 
 What’s common between submarine fiber cuts in the Red Sea, Southeast Asia, and the Baltic Sea, and fiber damage in Ukraine during warfare?
 
@@ -265,6 +271,7 @@ This presentation will focus on:
 {{% /portfolio %}} 
 
 
+#
 #
 ---------------------------
 
@@ -284,7 +291,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 **María Isabel Gandía**
 
-[CATnix](https://www.catnix.net/es)
+[CATnix - www.catnix.net](https://www.catnix.net/es)
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
@@ -300,7 +307,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 **Marcos Sanz** 
 
-[DE-cix](https://www.de-cix.net/)
+[DE-cix - www.de-cix.net](https://www.de-cix.net/)
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
@@ -317,7 +324,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 **Javier Achirica** 
 
-[ESPAnix](https://www.espanix.net/es)
+[ESPAnix - www.espanix.net](https://www.espanix.net/es)
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
@@ -325,6 +332,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 {{% /portfolio %}}  
 
 
+#
 #
 ---------------------------
 
@@ -336,7 +344,9 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ### Pausa para Café
 
-### Patrocinado por: GENIE NETWORKS
+#### Patrocinado por: 
+
+####    GENIE NETWORKS
 
 [www.genie-networks.com](www.genie-networks.com) 
 
@@ -369,7 +379,7 @@ Tradicionalmente, los IXP han visto la protección DDoS como un servicio ajeno a
 {{% /portfolio %}} 
 
 
-
+#
 #
 ---------------------------
 
@@ -389,7 +399,7 @@ Tradicionalmente, los IXP han visto la protección DDoS como un servicio ajeno a
 {{% /portfolio %}}  
 
 
-
+#
 #
 ---------------------------
 
@@ -400,13 +410,16 @@ Tradicionalmente, los IXP han visto la protección DDoS como un servicio ajeno a
 
 ### Beers & Talk
 
-### Patrocinado por: NTT
+#### Patrocinado por: 
+
+####    NTT
 
 [https://www.global.ntt/](https://www.global.ntt/) 
 
 {{% /portfolio %}} 
 
 
+#
 #
 ---------------------------
 
@@ -417,9 +430,12 @@ Tradicionalmente, los IXP han visto la protección DDoS como un servicio ajeno a
 
 ### Cena ESNOG
 
-### Patrocinado por: NEXGEN
+#### Patrocinado por: 
+
+####    NEXGEN
 
 [https://www.nexgen.eu/](https://www.nexgen.eu/) 
+
 
 
 - Las invitaciones se repartiran durante el evento del primer día.
@@ -429,6 +445,7 @@ Tradicionalmente, los IXP han visto la protección DDoS como un servicio ajeno a
 {{% /portfolio %}}
 
 
+#
 #
 ---------------------------
 ---------------------------
@@ -444,7 +461,7 @@ Tradicionalmente, los IXP han visto la protección DDoS como un servicio ajeno a
 Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-33
 
 
-
+#
 #
 ---------------------------
 
@@ -471,6 +488,7 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 
 
 #
+#
 ---------------------------
 
 ### 10:30 - 11:00 CEST 
@@ -483,7 +501,7 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 
 **Siarhei Matashuk**
 
-[www.genie-networks.com](www.genie-networks.com)
+[Genie Networks - www.genie-networks.com](www.genie-networks.com)
 
 This presentation is meant for BGP Coordinators, Network Engineers for BGP Operations and covers the topics of:
 
@@ -499,6 +517,7 @@ This presentation is meant for BGP Coordinators, Network Engineers for BGP Opera
 
 
 #
+#
 ---------------------------
 
 ### 10:30 - 11:00 CEST 
@@ -510,7 +529,7 @@ This presentation is meant for BGP Coordinators, Network Engineers for BGP Opera
 
 **José López Serrano**
 
-[Bequant](https://www.bequant.com/)
+[Bequant - www.bequant.com](https://www.bequant.com/)
 
 
 El aprendizaje automático en tiempo real, con algoritmos de aprendizaje reforzado (Real-Time Machine Learning with Reinforcement Learning), permite la reducción de la latencia y las pérdidas de paquetes en las redes de acceso de los proveedores del servicio de Internet.
@@ -521,6 +540,7 @@ El aprendizaje automático en tiempo real, con algoritmos de aprendizaje reforza
 {{% /portfolio %}} 
 
 
+#
 #
 ---------------------------
 
@@ -535,6 +555,7 @@ El aprendizaje automático en tiempo real, con algoritmos de aprendizaje reforza
 
 
 #
+#
 ---------------------------
 
 ### 11:30 - 12:00 CEST 
@@ -545,8 +566,8 @@ El aprendizaje automático en tiempo real, con algoritmos de aprendizaje reforza
 
 **Jac Kloots**
 
-[Kentik](https://www.kentik.com)
-[Ayscom](https://ayscom.com/es/)
+[Kentik - www.kentik.com](https://www.kentik.com)\
+[Ayscom - www.ayscom.com](https://ayscom.com/es/)
 
 
 In today’s hyper-connected world, network intelligence is a critical asset for organizations seeking to optimize performance, ensure reliability, and make data-driven decisions. This session offers a comprehensive exploration of network intelligence—what it is, how it works, and why it matters.
@@ -562,6 +583,7 @@ The presenter will showcase Kentik Network Intelligence Platform - how it enable
 {{% /portfolio %}} 
 
 
+#
 #
 ---------------------------
 
@@ -584,7 +606,7 @@ Será necesario disponer de ordenador para poder seguir el taller.
 {{% /portfolio %}} 
 
 
-
+#
 #
 ---------------------------
 
@@ -599,7 +621,7 @@ Será necesario disponer de ordenador para poder seguir el taller.
 {{% /portfolio %}}
 
 
-
+#
 #
 ---------------------------
 
@@ -612,7 +634,7 @@ Será necesario disponer de ordenador para poder seguir el taller.
 
 **Jordi Palet**
 
-[Theipv6company](https://theipv6company.com/)
+[Theipv6company - www.theipv6company.com](https://theipv6company.com/)
 
 En los últimos años hemos venido mencionando el uso de IPv6-only con IPv4aaS. De forma que todos los clientes de una red, podrían tener dual-stack, aun cuando la conectividad de esa red era IPv6-only. Sin embargo, ¿Que necesidad hay de que aquellos dispositivos que pueden usar sólo IPv6, les sigamos asignando direcciones IPv4? Con IPv6-Mostly completamos ese avance hacia redes no solo con menor uso de IPv6, sino también con cada vez menos asignación de direcciones IPv4.
 
@@ -623,7 +645,7 @@ En los últimos años hemos venido mencionando el uso de IPv6-only con IPv4aaS. 
 {{% /portfolio %}} 
 
 
-
+#
 #
 ---------------------------
 
@@ -637,7 +659,7 @@ En los últimos años hemos venido mencionando el uso de IPv6-only con IPv4aaS. 
 
 **Miguel Herrán Mosquera**
 
-[RIPE NCC](https://www.ripe.net/)
+[RIPE NCC - www.ripe.net](https://www.ripe.net/)
 
 Esta presentación tiene como objetivo proporcionar a los asistentes un conocimiento más profundo sobre los servicios relacionados con la base de datos de RIPE, incluyendo NRTMv4 y RDAP.
 
@@ -652,7 +674,7 @@ Se abordarán cambios recientes y próximos en la seguridad y autenticación den
 {{% /portfolio %}} 
 
 
-
+#
 #
 ---------------------------
 
@@ -667,6 +689,7 @@ Se abordarán cambios recientes y próximos en la seguridad y autenticación den
 
 {{% /portfolio %}}
 
+#
 #
 ---------------------------
 
