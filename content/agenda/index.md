@@ -129,6 +129,26 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 
 {{% /portfolio %}}  
 
+#
+---------------------------
+
+### 11:15 - 11:20 CEST
+
+#### Broker, vivo o muerto
+#
+
+{{% portfolio image="/gore33/img/nacho_mateo.jpg" alt="Nacho Mateo" %}}
+
+
+**Nacho Mateo**
+
+[IPbroker](https://ipbroker.com/es/)
+
+
+([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+
+
+{{% /portfolio %}} 
 
 #
 ---------------------------
@@ -136,13 +156,18 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 ### 11:15-11:45
 #
 
-{{% portfolio image="/gore33/img/icono-cafe.png" alt="cafe" %}}
+{{% portfolio image="/gore33/img/icono-cafe-solid_optics.png" alt="cafe-solid_optics" %}}
 
 ### Pausa para Café
+
+### Patrocinado por: SOLID OPTICS
+
+[https://www.solid-optics.com/](https://www.solid-optics.com/) 
 
 {{% /portfolio %}}  
 
 
+#
 #
 ---------------------------
 
@@ -165,58 +190,39 @@ En esta charla compartiremos nuestra experiencia combinando métodos de cifrado 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
 
-
 {{% /portfolio %}} 
 
 
 #
 ---------------------------
 
-### 12:15- 12:45 CEST 
+### 12:15 - 13:15 CEST
 
-####  IPv6-Mostly, la transición definitiva
-
-
-{{% portfolio image="/gore33/img/jordi_palet.jpg" alt="Jordi Palet" %}}
-
-**Jordi Palet**
-
-[Theipv6company](https://theipv6company.com/)
-
-En los últimos años hemos venido mencionando el uso de IPv6-only con IPv4aaS. De forma que todos los clientes de una red, podrían tener dual-stack, aun cuando la conectividad de esa red era IPv6-only. Sin embargo, ¿Que necesidad hay de que aquellos dispositivos que pueden usar sólo IPv6, les sigamos asignando direcciones IPv4? Con IPv6-Mostly completamos ese avance hacia redes no solo con menor uso de IPv6, sino también con cada vez menos asignación de direcciones IPv4.
-
-
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
-
-
-{{% /portfolio %}} 
-
-
+#####  Taller Práctico: Caracterización y Buenas Prácticas en Redes de Fibra Óptica
 #
----------------------------
 
-### 12:45- 13:15 CEST 
-
-####  Infusing Heterogeneous Data to Troubleshoot & Improve Peering Performance and Security
+{{% portfolio image="/gore33/img/saul_alonso.jpg" alt="Saul Alonso" %}}
 
 
-{{% portfolio image="/gore33/img/siarhei_matashuk.jpg" alt="Siarhei Matashuk" %}}
+**Saul Alonso**
 
-**Siarhei Matashuk**
+[Solid Optics](https://www.solid-optics.com/) 
 
-[www.genie-networks.com](www.genie-networks.com)
 
-This presentation is meant for BGP Coordinators, Network Engineers for BGP Operations and covers the topics of:
+En este taller práctico, abordaremos las técnicas fundamentales para la caracterización de enlaces de fibra óptica, evaluando parámetros críticos comoatenuación, distancia y dispersión. El objetivo es dotar a los participantes de los conocimientos necesarios para seleccionar y configurar de manera óptima el equipamiento de transmisión, garantizando un desempeño de red robusto y eficiente.
 
-- Peering Coordination: peering evaluation suiting the peering policy
-- Traffic Route Management: traffic monitoring for traffic route optimization, anomaly identification and troubleshooting
-- Route Health Monitoring: BGP route message and RPKI status analysis for routing health monitoring
-- Route Anomaly Detection: it’d be even better if someone could notify me whenever abnormal route behavior happened
+Además, se profundizará en las buenas prácticas de manipulación, inspección y limpieza de conectores ópticos, siguiendo el estándarIEC 61300-3-35:2022. A través de ejercicios prácticos, los asistentes aprenderán a identificar y corregir problemas comunes en la infraestructura óptica, reduciendo riesgos de degradación de servicio y mejorando la confiabilidad operativa de sus redes.
+
+Equipamiento a usar:
+OTDR, Medidor de dispersión cromática, medidor de potencia óptica, OSA, cámara de inspección de lentes manual, cámara de inspección de lentes automática.
+
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
 
+
 {{% /portfolio %}} 
+
 
 
 #
@@ -235,21 +241,24 @@ This presentation is meant for BGP Coordinators, Network Engineers for BGP Opera
 #
 ---------------------------
 
-### 14:45 - 15:15 CEST
+### 14:45- 15:15 CEST 
 
-#### Nuevas estrategias de protección DDoS en IXP
+#### How Recent Disruptions Are Reshaping Global Transit: Rethinking Routing, Capacity, and Resilience
 
+{{% portfolio image="/gore33/img/milko_ilari.jpg" alt="Milko Ilari" %}}
 
-{{% portfolio image="/gore33/img/victor_serrano.jpg" alt="Víctor Serrano" %}}
+**Milko Ilari**
 
+[RETN](https://retn.net/)
 
-**Víctor Serrano**
+What’s common between submarine fiber cuts in the Red Sea, Southeast Asia, and the Baltic Sea, and fiber damage in Ukraine during warfare?
 
-[Nokia](https://www.nokia.com)
+This presentation will focus on:
 
-
-Tradicionalmente, los IXP han visto la protección DDoS como un servicio ajeno a sus competencias, aunque algunos IXP ofrecen mecanismos simples de blackholing en la LAN. En esta charla veremos nuevas propuestas que IXPs de Europa (LINX, NL-ix) están desplegando para incorporar la protección DDoS como un servicio más en su catálogo.
-
+- Submarine bottlenecks and stimulus to establishing new transit hubs – how recent failures impact global traffic flows.
+- Latency and routing changes – rtt and bgp insights on how major routes have been affected.
+- Capacity adaptation – why RETN shifted from 400G to multiple 100G configurations on critical submarine paths, establishing a new rule: 6 routes are insufficient.
+- Building resilient networks – the case for route diversity and alternative terrestrial pathways.
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
@@ -323,36 +332,43 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 #
 
 
-{{% portfolio image="/gore33/img/icono-cafe.png" alt="cafe" %}}
+{{% portfolio image="/gore33/img/icono-cafe-genie.jpg" alt="cafe" %}}
 
 ### Pausa para Café
+
+### Patrocinado por: GENIE NETWORKS
+
+[www.genie-networks.com](www.genie-networks.com) 
 
 {{% /portfolio %}} 
 
 
 #
+#
 ---------------------------
 
 ### 16:30 - 17:00 CEST
 
-#### Introducing the Open Fibre Data Standard
+#### Nuevas estrategias de protección DDoS en IXP
 
 
-{{% portfolio image="/gore33/img/steve_song.jpg" alt="Steve Song" %}}
+{{% portfolio image="/gore33/img/jose_alberto_nistal.jpg" alt="Jose Alberto Nistal" %}}
 
 
-**Steve Song** 
+**Jose Alberto Nistal**
 
-[Internetsociety](https://www.internetsociety.org/)
+[Nokia](https://www.nokia.com)
 
 
-The Open Data Fibre Standard (OFDS) is a framework intended to standardize and streamline the publication, sharing, and interoperability of information describing fiber optic networks. It establishes a common data format and structure to ensure consistency across different stakeholders, including network operators, regulators, and service providers. OFDS aims to improve transparency, facilitate network planning, and support digital infrastructure development by making fiber deployment data more accessible and usable.
+Tradicionalmente, los IXP han visto la protección DDoS como un servicio ajeno a sus competencias, aunque algunos IXP ofrecen mecanismos simples de blackholing en la LAN. En esta charla veremos nuevas propuestas que IXPs de Europa (LINX, NL-ix) están desplegando para incorporar la protección DDoS como un servicio más en su catálogo.
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
 
-{{% /portfolio %}}  
+{{% /portfolio %}} 
+
+
 
 #
 ---------------------------
@@ -380,11 +396,13 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 ### 19:30 - 20:45 CEST
 #
 
-
-{{% portfolio image="/gore33/img/icono-fiesta.png" alt="fiesta" %}}
+{{% portfolio image="/gore33/img/icono-fiesta-ntt.jpg" alt="fiesta" %}}
 
 ### Beers & Talk
 
+### Patrocinado por: NTT
+
+[https://www.global.ntt/](https://www.global.ntt/) 
 
 {{% /portfolio %}} 
 
@@ -395,17 +413,20 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 ### 21:00 - 23:00 CEST
 #
 
-
-{{% portfolio image="/gore33/img/icono-comida.jpg" alt="cena" %}}
+{{% portfolio image="/gore33/img/icono-comida-genie.jpg" alt="cena" %}}
 
 ### Cena ESNOG
+
+### Patrocinado por: NEXGEN
+
+[https://www.nexgen.eu/](https://www.nexgen.eu/) 
+
 
 - Las invitaciones se repartiran durante el evento del primer día.
 - Las plazas son limitas, por lo que es necesario estar inscrito previamente.
 
 
 {{% /portfolio %}}
-
 
 
 #
@@ -423,54 +444,58 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-33
 
 
+
 #
 ---------------------------
 
-### 9:30 - 10:00 CEST 
+### 9:30 - 10:00 CEST
 
-#####  Por Confirmar
+#### Introducing the Open Fibre Data Standard
 
 
-{{% portfolio image="/gore33/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore33/img/steve_song.jpg" alt="Steve Song" %}}
 
-**Por Confirmar**
 
-[https://www.esnog.net](https://www.esnog.net)
+**Steve Song** 
 
+[Internetsociety](https://www.internetsociety.org/)
+
+
+The Open Data Fibre Standard (OFDS) is a framework intended to standardize and streamline the publication, sharing, and interoperability of information describing fiber optic networks. It establishes a common data format and structure to ensure consistency across different stakeholders, including network operators, regulators, and service providers. OFDS aims to improve transparency, facilitate network planning, and support digital infrastructure development by making fiber deployment data more accessible and usable.
+
+
+([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+
+
+{{% /portfolio %}}  
+
+
+#
+---------------------------
+
+### 10:30 - 11:00 CEST 
+
+####  Infusing Heterogeneous Data to Troubleshoot & Improve Peering Performance and Security
+
+
+{{% portfolio image="/gore33/img/siarhei_matashuk.jpg" alt="Siarhei Matashuk" %}}
+
+
+**Siarhei Matashuk**
+
+[www.genie-networks.com](www.genie-networks.com)
+
+This presentation is meant for BGP Coordinators, Network Engineers for BGP Operations and covers the topics of:
+
+- Peering Coordination: peering evaluation suiting the peering policy
+- Traffic Route Management: traffic monitoring for traffic route optimization, anomaly identification and troubleshooting
+- Route Health Monitoring: BGP route message and RPKI status analysis for routing health monitoring
+- Route Anomaly Detection: it’d be even better if someone could notify me whenever abnormal route behavior happened
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
 
 {{% /portfolio %}} 
-
-
-#
----------------------------
-
-### 10:00 - 10:30 CEST 
-
-
-#### How Recent Disruptions Are Reshaping Global Transit: Rethinking Routing, Capacity, and Resilience
-
-{{% portfolio image="/gore33/img/milko_ilari.jpg" alt="Milko Ilari" %}}
-
-**Milko Ilari**
-
-[RETN](https://retn.net/)
-
-
-What’s common between submarine fiber cuts in the Red Sea, Southeast Asia, and the Baltic Sea, and fiber damage in Ukraine during warfare?
-
-This presentation will focus on:
-
-- Submarine bottlenecks and stimulus to establishing new transit hubs – how recent failures impact global traffic flows.
-- Latency and routing changes – rtt and bgp insights on how major routes have been affected.
-- Capacity adaptation – why RETN shifted from 400G to multiple 100G configurations on critical submarine paths, establishing a new rule: 6 routes are insufficient.
-- Building resilient networks – the case for route diversity and alternative terrestrial pathways.
-
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
-
-{{% /portfolio %}}  
 
 
 #
@@ -514,13 +539,21 @@ El aprendizaje automático en tiempo real, con algoritmos de aprendizaje reforza
 
 ### 11:30 - 12:00 CEST 
 
-#### Por Confirmar
+#### Unlocking Insights with Network Intelligence: From Data to Decisions
 
-{{% portfolio image="/gore33/img/john_doe.jpg" alt="John Doe" %}}
+{{% portfolio image="/gore33/img/jac_kloots.jpg" alt="Jac Kloots" %}}
 
-**Por Confirmar**
+**Jac Kloots**
 
-[https://www.esnog.net](https://www.esnog.net)
+[Kentik](https://www.kentik.com)
+[Ayscom](https://ayscom.com/es/)
+
+
+In today’s hyper-connected world, network intelligence is a critical asset for organizations seeking to optimize performance, ensure reliability, and make data-driven decisions. This session offers a comprehensive exploration of network intelligence—what it is, how it works, and why it matters.
+
+We’ll begin with a high-level overview of network intelligence as the process of collecting, analyzing, and leveraging network data to gain actionable insights into traffic patterns, performance trends, and system health. From there, we’ll delve into the technical side, examining the data analysis workflows, methodologies, and tools that power modern network intelligence.
+
+The presenter will showcase Kentik Network Intelligence Platform - how it enables seamless integration of diverse data sources to deliver advanced traffic analytics, performance monitoring, and network management system (NMS) capabilities. Learn how Kentik supports end-to-end visibility and real-time diagnostics through its robust architecture and data correlation engine.
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
@@ -566,11 +599,36 @@ Será necesario disponer de ordenador para poder seguir el taller.
 {{% /portfolio %}}
 
 
+
+#
+---------------------------
+
+### 14:30- 15:00 CEST 
+
+####  IPv6-Mostly, la transición definitiva
+
+
+{{% portfolio image="/gore33/img/jordi_palet.jpg" alt="Jordi Palet" %}}
+
+**Jordi Palet**
+
+[Theipv6company](https://theipv6company.com/)
+
+En los últimos años hemos venido mencionando el uso de IPv6-only con IPv4aaS. De forma que todos los clientes de una red, podrían tener dual-stack, aun cuando la conectividad de esa red era IPv6-only. Sin embargo, ¿Que necesidad hay de que aquellos dispositivos que pueden usar sólo IPv6, les sigamos asignando direcciones IPv4? Con IPv6-Mostly completamos ese avance hacia redes no solo con menor uso de IPv6, sino también con cada vez menos asignación de direcciones IPv4.
+
+
+([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+
+
+{{% /portfolio %}} 
+
+
+
 #
 ---------------------------
 
 
-### 14:30 - 15:00 CEST
+### 15:00 - 15:30 CEST
 
 #### Novedades en la RIPE Database
 
@@ -590,26 +648,6 @@ Se abordarán cambios recientes y próximos en la seguridad y autenticación den
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
-
-{{% /portfolio %}} 
-
-
-#
----------------------------
-
-### 15:00 - 15:30 CEST 
-
-#### Por Confirmar
-
-{{% portfolio image="/gore33/img/john_doe.jpg" alt="John Doe" %}}
-
-**Por Confirmar**
-
-[https://www.esnog.net](https://www.esnog.net)
-
-
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
- 
 
 {{% /portfolio %}} 
 
