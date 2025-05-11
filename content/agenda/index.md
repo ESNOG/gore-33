@@ -16,9 +16,9 @@ La celebración del ESNOG-33, tendrá lugar en:
 
 **Universidad Carlos III**
 
-Universidad Carlos III de Madrid-Puerta de Toledo 
-Campus Ronda de Toledo, 1.
-28005 Madrid
+Universidad Carlos III de Madrid-Puerta de Toledo
+
+[Campus Ronda de Toledo, 1. 28005 Madrid](https://maps.app.goo.gl/66Qo4xbCSe1zfgJc9)
 
 Ubicacion en el campus: Auditorio
 
