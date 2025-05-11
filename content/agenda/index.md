@@ -16,9 +16,11 @@ La celebración del ESNOG-33, tendrá lugar en:
 
 **Universidad Carlos III**
 
-Universidad Carlos III de Madrid-Puerta de Toledo Campus Ronda de Toledo, 1.
+Universidad Carlos III de Madrid-Puerta de Toledo 
+Campus Ronda de Toledo, 1.
 28005 Madrid
 
+Ubicacion en el campus: Auditorio
 
 [https://www.uc3m.es/inicio](https://www.uc3m.es/inicio)
 
@@ -475,7 +477,7 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 
 **Steve Song** 
 
-[Internetsociety](https://www.internetsociety.org/)
+[Internetsociety - https://www.internetsociety.org/](https://www.internetsociety.org/)
 
 
 The Open Data Fibre Standard (OFDS) is a framework intended to standardize and streamline the publication, sharing, and interoperability of information describing fiber optic networks. It establishes a common data format and structure to ensure consistency across different stakeholders, including network operators, regulators, and service providers. OFDS aims to improve transparency, facilitate network planning, and support digital infrastructure development by making fiber deployment data more accessible and usable.
