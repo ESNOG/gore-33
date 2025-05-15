@@ -593,8 +593,10 @@ In this talk, we will walk through how organizations can extract valuable types 
 {{% portfolio image="/gore33/img/john_doe.jpg" alt="john_doe" %}}
 
 
-**Por definir**
+**Francisco Méndez Merchán**
 
+
+[GRC IDATA CONSULTORES SL]()
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
@@ -607,7 +609,7 @@ In this talk, we will walk through how organizations can extract valuable types 
 #
 ---------------------------
 
-### 12:00 - 12:30 CEST
+### 12:30 - 13:00 CEST
 
 ##### Cómo hemos implementado Dual-stack en Movistar + Updates Meet-up 2025. IPv6 Council España
 
