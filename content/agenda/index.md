@@ -562,7 +562,7 @@ El aprendizaje automático en tiempo real, con algoritmos de aprendizaje reforza
 
 ### 11:30 - 12:00 CEST 
 
-#### Unlocking Insights with Network Intelligence: From Data to Decisions
+#### Using Sources of Truth to Enrich and Understand Network Telemetry
 
 {{% portfolio image="/gore33/img/jac_kloots.jpg" alt="Jac Kloots" %}}
 
@@ -572,12 +572,9 @@ El aprendizaje automático en tiempo real, con algoritmos de aprendizaje reforza
 [Ayscom - www.ayscom.com](https://ayscom.com/es/)
 
 
-In today’s hyper-connected world, network intelligence is a critical asset for organizations seeking to optimize performance, ensure reliability, and make data-driven decisions. This session offers a comprehensive exploration of network intelligence—what it is, how it works, and why it matters.
+The world of networking is dynamically changing and moving, and the truth is that networks have grown past the point of being able to memorize IP addresses. To answer real business questions and understand context, the ability to join IP and port information with real meaning is hugely impactful for any organization. The problem is that this distributed data lives in systems of record like DNS, Netbox, and even K8s and other orchestration systems. So, how exactly can you wrangle all the insight necessary to make effective business decisions?
 
-We’ll begin with a high-level overview of network intelligence as the process of collecting, analyzing, and leveraging network data to gain actionable insights into traffic patterns, performance trends, and system health. From there, we’ll delve into the technical side, examining the data analysis workflows, methodologies, and tools that power modern network intelligence.
-
-The presenter will showcase Kentik Network Intelligence Platform - how it enables seamless integration of diverse data sources to deliver advanced traffic analytics, performance monitoring, and network management system (NMS) capabilities. Learn how Kentik supports end-to-end visibility and real-time diagnostics through its robust architecture and data correlation engine.
-
+In this talk, we will walk through how organizations can extract valuable types of network telemetry data, how joins can be done for actionable results, and network automation and network observability can work in tandem to make this all easier.
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
  
@@ -589,16 +586,44 @@ The presenter will showcase Kentik Network Intelligence Platform - how it enable
 #
 ---------------------------
 
-### 12:00 - 13:00 CEST
+### 12:00 - 12:30 CEST
 
-#####  Taller: Introducción a kubernetes (k8s) para ingenieros de red
+##### Obtención de la ENS (Esquema nacional de seguridad)
 
-{{% portfolio image="/gore33/img/jesus_velez.jpg" alt="Jesus Velez" %}}
+{{% portfolio image="/gore33/img/john_doe.jpg" alt="john_doe" %}}
 
 
-**Jesus Velez**
+**Por definir**
 
-Será necesario disponer de ordenador para poder seguir el taller.
+
+([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+
+
+
+{{% /portfolio %}} 
+
+
+#
+#
+---------------------------
+
+### 12:00 - 12:30 CEST
+
+##### Cómo hemos implementado Dual-stack en Movistar + Updates Meet-up 2025. IPv6 Council España
+
+{{% portfolio image="/gore33/img/carlos_ralli-javier_garcia.jpg" alt="Carlos Ralli - Javier Garcia" %}}
+
+
+**Carlos Ralli**\
+**Javier Garcia**
+
+[Telefónica - https://www.telefonica.com/es/](https://www.telefonica.com/es/)\
+[IPv6 Council Spain - https://www.ipv6council.es/](https://www.ipv6council.es/)
+
+
+Descripción del proceso la implementación, los retos, hitos y beneficios que hemos visto en este despliegue, así como la situación actual y los nuevos retos que nos estamos proponiendo.
+
+Update de lo acontecido en el evento anual del IPv6 Council España.
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
