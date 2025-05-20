@@ -588,15 +588,18 @@ In this talk, we will walk through how organizations can extract valuable types 
 
 ### 12:00 - 12:30 CEST
 
-##### Obtención de la ENS (Esquema nacional de seguridad)
+##### Esquema nacional de seguridad (ENS): aplicación práctica y certificación
 
-{{% portfolio image="/gore33/img/john_doe.jpg" alt="john_doe" %}}
+{{% portfolio image="/gore33/img/franciso_mendez_merchan.jpg" alt="Francisco Mendez" %}}
 
 
 **Francisco Méndez Merchán**
 
 
-[GRC IDATA CONSULTORES SL]()
+[GRC IDATA CONSULTORES SL](https://www.grcidata.com/)
+
+Como afrontar e implantar con éxito los artículos y controles. 
+Cómo superar con éxito una auditoría y obtener la certificación.
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
