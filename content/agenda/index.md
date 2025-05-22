@@ -101,8 +101,7 @@ El tráfico de fondo de Internet está formado por aquellos paquetes de red que 
 
 La presentación realiza un estudio del tráfico recibido por un telescopio de red situado en España durante el año 2023, con más de 4.700 millones de paquetes. Las características del tráfico son comparadas con las de estudios previos, resaltando los cambios de comportamiento y los ataques más comunes.
 
-
-([**PRESENTACION en PDF**](/gore33/archivos/esnog-33-rodolfo_garcia-estudio_ trafico_fondo_internet.pdf))
+([**PRESENTACION en PDF**](/gore33/archivos/esnog-33-rodolfo_garcia-estudio_trafico_fondo_internet.pdf))
 
 {{% /portfolio %}}
 
