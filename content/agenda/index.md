@@ -245,24 +245,15 @@ OTDR, Medidor de dispersión cromática, medidor de potencia óptica, OSA, cáma
 
 ### 14:45- 15:15 CEST 
 
-#### How Recent Disruptions Are Reshaping Global Transit: Rethinking Routing, Capacity, and Resilience
+#### Panel de discusión sobre el apagón en España
 
-{{% portfolio image="/gore33/img/milko_ilari.jpg" alt="Milko Ilari" %}}
+{{% portfolio image="/gore33/img/john_doe.jpg" alt="John Doe" %}}
 
-**Milko Ilari**
+**ESnog**
 
-[RETN - www.retn.net](https://retn.net/)
+[ESNOG - https://www.esnog.net/](https://www.esnog.net/)
 
-What’s common between submarine fiber cuts in the Red Sea, Southeast Asia, and the Baltic Sea, and fiber damage in Ukraine during warfare?
-
-This presentation will focus on:
-
-- Submarine bottlenecks and stimulus to establishing new transit hubs – how recent failures impact global traffic flows.
-- Latency and routing changes – rtt and bgp insights on how major routes have been affected.
-- Capacity adaptation – why RETN shifted from 400G to multiple 100G configurations on critical submarine paths, establishing a new rule: 6 routes are insufficient.
-- Building resilient networks – the case for route diversity and alternative terrestrial pathways.
-
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+Mediante la apertura de microfonos debatiremos y compartiremos experiencias (personales o profesionales) vividas durante el apagón en España.
 
 {{% /portfolio %}} 
 
