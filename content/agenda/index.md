@@ -102,8 +102,7 @@ El tráfico de fondo de Internet está formado por aquellos paquetes de red que 
 La presentación realiza un estudio del tráfico recibido por un telescopio de red situado en España durante el año 2023, con más de 4.700 millones de paquetes. Las características del tráfico son comparadas con las de estudios previos, resaltando los cambios de comportamiento y los ataques más comunes.
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
-
+([**PRESENTACION en PDF**](/gore33/archivos/esnog-33-rodolfo_garcia-estudio_ trafico_fondo_internet.pdf))
 
 {{% /portfolio %}}
 
@@ -126,8 +125,8 @@ La presentación realiza un estudio del tráfico recibido por un telescopio de r
 
 Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-Ruido (SNR) que aún puede mantener una Tasa de Error de Bit (BER) tolerable en enlaces de red de 100G / 400G / 800G. Además, teniendo en cuenta factores como la temperatura y la longitud del cable para predecir la duración durante la cual se puede mantener una conexión de red confiable entre transceptores. El análisis, basado en datos obtenidos mediante un Flexbox, se centra en comparar la fiabilidad de los transceptores coherentes (16QAM) y no coherentes (PAM4), con una discusión detallada sobre las implicaciones de estas tecnologías en el rendimiento de la red.
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
+([**PRESENTACION en PDF**](/gore33/archivos/esnog-33-gerhard_stein-flexoptix-analisis_confiabilidad_800g.pdf))
 
 {{% /portfolio %}}  
 
