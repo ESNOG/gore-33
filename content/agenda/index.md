@@ -373,8 +373,6 @@ Tradicionalmente, los IXP han visto la protección DDoS como un servicio ajeno a
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
-([**PRESENTACION en PDF**](/gore33/archivos/esnog33-nokia-deepfield_defender_ixp.pdf))
-
 
 {{% /portfolio %}} 
 
@@ -510,7 +508,6 @@ This presentation is meant for BGP Coordinators, Network Engineers for BGP Opera
 - Route Anomaly Detection: it’d be even better if someone could notify me whenever abnormal route behavior happened
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
-([**PRESENTACION en PDF**](/gore33/archivos/esnog33-.pdf))
 
 
 {{% /portfolio %}} 
