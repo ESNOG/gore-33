@@ -101,7 +101,7 @@ El tráfico de fondo de Internet está formado por aquellos paquetes de red que 
 
 La presentación realiza un estudio del tráfico recibido por un telescopio de red situado en España durante el año 2023, con más de 4.700 millones de paquetes. Las características del tráfico son comparadas con las de estudios previos, resaltando los cambios de comportamiento y los ataques más comunes.
 
-([**PRESENTACION en PDF**](/gore33/archivos/esnog-33-rodolfo_garcia-estudio_trafico_fondo_internet.pdf))
+([**PRESENTACION en PDF**](/gore33/archivos/esnog33-rodolfo_garcia-estudio_trafico_fondo_internet.pdf))
 
 {{% /portfolio %}}
 
@@ -125,7 +125,7 @@ La presentación realiza un estudio del tráfico recibido por un telescopio de r
 Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-Ruido (SNR) que aún puede mantener una Tasa de Error de Bit (BER) tolerable en enlaces de red de 100G / 400G / 800G. Además, teniendo en cuenta factores como la temperatura y la longitud del cable para predecir la duración durante la cual se puede mantener una conexión de red confiable entre transceptores. El análisis, basado en datos obtenidos mediante un Flexbox, se centra en comparar la fiabilidad de los transceptores coherentes (16QAM) y no coherentes (PAM4), con una discusión detallada sobre las implicaciones de estas tecnologías en el rendimiento de la red.
 
 
-([**PRESENTACION en PDF**](/gore33/archivos/esnog-33-gerhard_stein-flexoptix-analisis_confiabilidad_800g.pdf))
+([**PRESENTACION en PDF**](/gore33/archivos/esnog33-gerhard_stein-flexoptix-analisis_confiabilidad_800g.pdf))
 
 {{% /portfolio %}}  
 
@@ -146,7 +146,7 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 [IPbroker - www.ipbroker.com](https://ipbroker.com/es/)
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore33/archivos/esnog33-ipbroker.pdf))
 
 
 {{% /portfolio %}} 
@@ -191,7 +191,7 @@ Esta presentación investiga la proximidad a un umbral bajo de Relación Señal-
 En esta charla compartiremos nuestra experiencia combinando métodos de cifrado cuántico y postcuántico para asegurar el tráfico desde aplicaciones en un data center on-premise hasta el cloud público. Además, comentaremos los hitos tecnológicos alcanzados en materia de QKD (Quantum Key Distribution): primera prueba en producción de una solución hub&spoke de encriptadores y generadores de claves, y la multiplexación de generación de claves y datos en un mismo par de fibras.
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog33-encriptacion_qkd_mac_sec_metropolitano.pdf))
 
 
 {{% /portfolio %}} 
@@ -220,10 +220,6 @@ Además, se profundizará en las buenas prácticas de manipulación, inspección
 
 Equipamiento a usar:
 OTDR, Medidor de dispersión cromática, medidor de potencia óptica, OSA, cámara de inspección de lentes manual, cámara de inspección de lentes automática.
-
-
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
-
 
 
 {{% /portfolio %}} 
@@ -293,7 +289,9 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 [CATnix - www.catnix.net](https://www.catnix.net/es)
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+
+([**PRESENTACION en PDF**](/gore33/archivos/esnog33-catnix.pdf))
+
 
 {{% /portfolio %}}  
 
@@ -309,7 +307,10 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 [DE-cix - www.de-cix.net](https://www.de-cix.net/)
 
+
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+
+([**PRESENTACION en PDF**](/gore33/archivos/esnog33-de_cix.pdf))
 
 {{% /portfolio %}}  
 
@@ -326,8 +327,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 [ESPAnix - www.espanix.net](https://www.espanix.net/es)
 
-
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore33/archivos/esnog33-espanix.pdf))
 
 {{% /portfolio %}}  
 
@@ -374,6 +374,8 @@ Tradicionalmente, los IXP han visto la protección DDoS como un servicio ajeno a
 
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+
+([**PRESENTACION en PDF**](/gore33/archivos/esnog33-nokia-deepfield_defender_ixp.pdf))
 
 
 {{% /portfolio %}} 
@@ -435,7 +437,6 @@ Tradicionalmente, los IXP han visto la protección DDoS como un servicio ajeno a
 ####    NEXGEN
 
 [https://www.nexgen.eu/](https://www.nexgen.eu/) 
-
 
 
 - Las invitaciones se repartiran durante el evento del primer día.
@@ -511,6 +512,7 @@ This presentation is meant for BGP Coordinators, Network Engineers for BGP Opera
 - Route Anomaly Detection: it’d be even better if someone could notify me whenever abnormal route behavior happened
 
 ([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore33/archivos/esnog33-.pdf))
 
 
 {{% /portfolio %}} 
