@@ -362,7 +362,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 Tradicionalmente, los IXP han visto la protección DDoS como un servicio ajeno a sus competencias, aunque algunos IXP ofrecen mecanismos simples de blackholing en la LAN. En esta charla veremos nuevas propuestas que IXPs de Europa (LINX, NL-ix) están desplegando para incorporar la protección DDoS como un servicio más en su catálogo.
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore33/archivos/esnog33-nokia-deepfield_defender_ixp.pdf))
 
 
 {{% /portfolio %}} 
