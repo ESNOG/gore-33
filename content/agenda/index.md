@@ -498,7 +498,7 @@ This presentation is meant for BGP Coordinators, Network Engineers for BGP Opera
 - Route Health Monitoring: BGP route message and RPKI status analysis for routing health monitoring
 - Route Anomaly Detection: it’d be even better if someone could notify me whenever abnormal route behavior happened
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore33/archivos/esnog33-genie-peering.pdf))
 
 
 {{% /portfolio %}} 
