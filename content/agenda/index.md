@@ -562,7 +562,8 @@ The world of networking is dynamically changing and moving, and the truth is tha
 
 In this talk, we will walk through how organizations can extract valuable types of network telemetry data, how joins can be done for actionable results, and network automation and network observability can work in tandem to make this all easier.
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+
+([**PRESENTACION en PDF - UPDATES IPv6 COUNCIL**](/gore33/archivos/esnog33-kentik-using_source_of_truth_to_enrich_understand_network_telemetry.pdf))
  
 
 {{% /portfolio %}} 
@@ -614,12 +615,11 @@ Cómo superar con éxito una auditoría y obtener la certificación.
 
 Descripción del proceso la implementación, los retos, hitos y beneficios que hemos visto en este despliegue, así como la situación actual y los nuevos retos que nos estamos proponiendo.
 
+([**PRESENTACION en PDF - IMPLEMENTACION DUAL-STACK**](/gore33/archivos/esnog33-lanzamiento_dual_stack_acceso_movil.pdf))
+
 Update de lo acontecido en el evento anual del IPv6 Council España.
 
-
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
-
-
+([**PRESENTACION en PDF - UPDATES IPv6 COUNCIL**](/gore33/archivos/esnog33-update_ipv6_council.pdf))
 
 {{% /portfolio %}} 
 
@@ -686,8 +686,7 @@ Durante la sesión, se explicará en detalle el funcionamiento de estos servicio
 Se abordarán cambios recientes y próximos en la seguridad y autenticación dentro de la base de datos de RIPE, incluyendo la expiración de las contraseñas MD5 y las alternativas disponibles para garantizar la seguridad y accesibilidad de la información. Entre ellas, se explorarán soluciones como API Keys y OAuth2, destacando sus ventajas, implementación y mejores prácticas para su uso.
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
-
+([**PRESENTACION en PDF**](/gore33/archivos/esnog33-ripe-database_services_overview.pdf))
 
 {{% /portfolio %}} 
 
