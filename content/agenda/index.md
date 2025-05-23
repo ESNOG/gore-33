@@ -657,7 +657,7 @@ Update de lo acontecido en el evento anual del IPv6 Council España.
 En los últimos años hemos venido mencionando el uso de IPv6-only con IPv4aaS. De forma que todos los clientes de una red, podrían tener dual-stack, aun cuando la conectividad de esa red era IPv6-only. Sin embargo, ¿Que necesidad hay de que aquellos dispositivos que pueden usar sólo IPv6, les sigamos asignando direcciones IPv4? Con IPv6-Mostly completamos ese avance hacia redes no solo con menor uso de IPv6, sino también con cada vez menos asignación de direcciones IPv4.
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog33-jordi_palet-ipv6-mostly.pdf))
+([**PRESENTACION en PDF**](/gore33/archivos/esnog33-jordi_palet-ipv6-mostly.pdf))
 
 
 {{% /portfolio %}} 
