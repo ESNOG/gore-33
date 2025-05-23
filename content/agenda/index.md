@@ -337,7 +337,7 @@ Actualización sobre las últimas novedades en los diferentes puntos neutros exi
 
 ####    GENIE NETWORKS
 
-[www.genie-networks.com](www.genie-networks.com) 
+[www.genie-networks.com](https://www.genie-networks.com) 
 
 {{% /portfolio %}} 
 
@@ -588,7 +588,7 @@ In this talk, we will walk through how organizations can extract valuable types 
 Como afrontar e implantar con éxito los artículos y controles. 
 Cómo superar con éxito una auditoría y obtener la certificación.
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+([**PRESENTACION en PDF**](/gore33/archivos/esnog33-francisco_mendez-ens.pdf))
 
 
 
@@ -657,7 +657,7 @@ Update de lo acontecido en el evento anual del IPv6 Council España.
 En los últimos años hemos venido mencionando el uso de IPv6-only con IPv4aaS. De forma que todos los clientes de una red, podrían tener dual-stack, aun cuando la conectividad de esa red era IPv6-only. Sin embargo, ¿Que necesidad hay de que aquellos dispositivos que pueden usar sólo IPv6, les sigamos asignando direcciones IPv4? Con IPv6-Mostly completamos ese avance hacia redes no solo con menor uso de IPv6, sino también con cada vez menos asignación de direcciones IPv4.
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
+([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog33-jordi_palet-ipv6-mostly.pdf))
 
 
 {{% /portfolio %}} 
@@ -702,7 +702,6 @@ Se abordarán cambios recientes y próximos en la seguridad y autenticación den
 
 #### Concurso y Despedida
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
 {{% /portfolio %}}
 
