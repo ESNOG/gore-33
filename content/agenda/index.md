@@ -563,7 +563,7 @@ The world of networking is dynamically changing and moving, and the truth is tha
 In this talk, we will walk through how organizations can extract valuable types of network telemetry data, how joins can be done for actionable results, and network automation and network observability can work in tandem to make this all easier.
 
 
-([**PRESENTACION en PDF - UPDATES IPv6 COUNCIL**](/gore33/archivos/esnog33-kentik-using_source_of_truth_to_enrich_understand_network_telemetry.pdf))
+([**PRESENTACION en PDF**](/gore33/archivos/esnog33-kentik-using_source_of_truth_to_enrich_understand_network_telemetry.pdf))
  
 
 {{% /portfolio %}} 
