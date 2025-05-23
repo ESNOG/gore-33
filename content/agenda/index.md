@@ -583,7 +583,7 @@ In this talk, we will walk through how organizations can extract valuable types 
 **Francisco Méndez Merchán**
 
 
-[GRC IDATA CONSULTORES SL](https://www.grcidata.com/)
+[GRC IDATA CONSULTORES SL]
 
 Como afrontar e implantar con éxito los artículos y controles. 
 Cómo superar con éxito una auditoría y obtener la certificación.
