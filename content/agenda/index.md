@@ -469,8 +469,8 @@ Bienvenida a los asistentes e instrucciones sobre la segunda sesión del ESNOG-3
 The Open Data Fibre Standard (OFDS) is a framework intended to standardize and streamline the publication, sharing, and interoperability of information describing fiber optic networks. It establishes a common data format and structure to ensure consistency across different stakeholders, including network operators, regulators, and service providers. OFDS aims to improve transparency, facilitate network planning, and support digital infrastructure development by making fiber deployment data more accessible and usable.
 
 
-([*PRESENTACION NO DISPONIBLE AUN*](/gore33/archivos/esnog.pdf))
 
+([**PRESENTACION en PDF**](/gore33/archivos/esnog33-isoc-steve_song-open_fibre_data_standard.pdf))
 
 {{% /portfolio %}}  
 
@@ -479,7 +479,7 @@ The Open Data Fibre Standard (OFDS) is a framework intended to standardize and s
 #
 ---------------------------
 
-### 10:30 - 11:00 CEST 
+### 10:00 - 10:30 CEST 
 
 ####  Infusing Heterogeneous Data to Troubleshoot & Improve Peering Performance and Security
 
